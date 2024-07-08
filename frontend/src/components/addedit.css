@@ -1,0 +1,16 @@
+.add-form {
+    margin: auto;
+    margin-top: 3rem;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    box-shadow: rgb(38,57,77) 0px 20px 30px -10px;
+    background: #ffffff88;
+}
+.add-btn{
+    display: flex;
+    margin-top: 2rem;
+    justify-content: center;
+}

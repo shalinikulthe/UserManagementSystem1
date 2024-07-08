@@ -1,0 +1,44 @@
+.topnav {
+    background-color:darkslategray;
+    overflow: hidden;
+}
+
+.topnav .left {
+    float: left;
+}
+
+.topnav .left .logo {
+    color: #fff;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.topnav .right {
+    float: right;
+}
+
+.topnav .right .nav-link {
+    color: #fff;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.topnav .right .nav-link:hover {
+    background-color:darkgreen;
+}
+
+.add-user-btn {
+    background-color:darkslategray;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    float: right;
+    margin-right: 20px;
+}
+
+.add-user-btn:hover {
+    background-color:darkgreen;
+}
